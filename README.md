@@ -13,7 +13,7 @@ The Password Generator Website is a simple, user-friendly web application that a
 
 ## Project Structure
 ```bash
-Password-Generator-Website/
+Password_Generator_Website/
 ├── index.html
 ├── styles.css
 ├── script.js
